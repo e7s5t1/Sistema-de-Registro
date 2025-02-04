@@ -6,3 +6,5 @@ Proyecto de Sistema de Registro.
 Para ejcutar el sistema, debes poner:
 
 ```npm install react```
+
+<h3>Actualización feb 04</h3>
